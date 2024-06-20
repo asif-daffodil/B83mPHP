@@ -7,4 +7,5 @@
     define("x", 321);
 
     echo $x."<br>";
+    echo x."<br>";
 ?>
